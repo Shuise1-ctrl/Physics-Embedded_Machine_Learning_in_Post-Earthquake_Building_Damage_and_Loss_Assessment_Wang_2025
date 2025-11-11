@@ -1,0 +1,2 @@
+# Physics-Embedded_Machine_Learning_in_Post-Earthquake_Building_Damage_and_Loss_Assessment_Wang_2025
+It mainly releases classification models and regression models. Among them, the classification models include Bernoulli_RF_model and Bernoulli_XGB_model, while the regression models include Wave_CNN_RF_model and Wave_CNN_XGB_model. Other basic models (such as XGB and RF) can be built by readers based on their own needs.
